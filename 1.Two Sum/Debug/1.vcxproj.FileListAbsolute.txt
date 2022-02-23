@@ -1,0 +1,4 @@
+E:\学习\大二（上）\leetcode\1\Debug\1.exe
+E:\学习\大二（上）\leetcode\1\Debug\1.pdb
+E:\学习\大二（上）\leetcode\1.Two Sum\Debug\1.exe
+E:\学习\大二（上）\leetcode\1.Two Sum\Debug\1.pdb

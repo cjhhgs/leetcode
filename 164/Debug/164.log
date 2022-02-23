@@ -1,0 +1,6 @@
+﻿  164.cpp
+E:\学习\大二（上）\leetcode\164\164.cpp(12,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\学习\大二（上）\leetcode\164\164.cpp(26,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\学习\大二（上）\leetcode\164\164.cpp(35,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\学习\大二（上）\leetcode\164\164.cpp(41,9): warning C4101: “y”: 未引用的局部变量
+  164.vcxproj -> E:\学习\大二（上）\leetcode\164\Debug\164.exe

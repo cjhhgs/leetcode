@@ -1,0 +1,4 @@
+﻿  767.cpp
+E:\学习\大二（上）\leetcode\767\767.cpp(9,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\学习\大二（上）\leetcode\767\767.cpp(47,16): warning C4018: “>”: 有符号/无符号不匹配
+  767.vcxproj -> E:\学习\大二（上）\leetcode\767\Debug\767.exe
